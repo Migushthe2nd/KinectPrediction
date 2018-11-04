@@ -8,7 +8,7 @@ http://research.microsoft.com/KinectSDK-ToU
   
 =============================  
 OVERVIEW    
-.......................................................................................  
+............................................................................................  
 This module provides sample code used to demonstrate Kinect NUI processing such as
 capturing depth stream, color stream and skeletal tracking frames and displaying them
 on the screen.
