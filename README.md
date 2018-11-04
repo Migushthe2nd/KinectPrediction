@@ -8,7 +8,7 @@ http://research.microsoft.com/KinectSDK-ToU
   
 =============================  
 OVERVIEW    
-..........................................................  
+.......................................................................................  
 This module provides sample code used to demonstrate Kinect NUI processing such as
 capturing depth stream, color stream and skeletal tracking frames and displaying them
 on the screen.
@@ -23,13 +23,13 @@ When sample is executed you should be able to see the following:
   
 =============================  
 SAMPLE LANGUAGE IMPLEMENTATIONS       
-..........................................................  
+.......................................................................................  
 This sample is available in C#
   
   
 =============================  
 FILES     
-..........................................................  
+.......................................................................................  
 - App.xaml: declaration of application level resources
 - App.xaml.cs: interaction logic behind app.xaml
 - MainWindow.xaml: declaration of layout within main application window
@@ -38,7 +38,7 @@ FILES
   
 =============================  
 BUILDING THE SAMPLE     
-..........................................................  
+.......................................................................................  
   
 To build the sample using Visual Studio:  
 -----------------------------------------------------------  
@@ -49,7 +49,7 @@ To build the sample using Visual Studio:
   
 =============================  
 RUNNING THE SAMPLE     
-..........................................................  
+.......................................................................................  
   
 To run the sample:  
 ------------------  
