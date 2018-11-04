@@ -1,0 +1,10 @@
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\bin\Debug\JointPredictionTest.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\bin\Debug\JointPredictionTest.pdb
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\bin\Debug\JointPrediction.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\bin\Debug\JointPrediction.pdb
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\obj\Debug\JointPredictionTest.csprojAssemblyReference.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\obj\Debug\JointPredictionTest.csproj.CoreCompileInputs.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\obj\Debug\JointPredictionTest.csproj.CopyComplete
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\obj\Debug\JointPredictionTest.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPredictionTest\obj\Debug\JointPredictionTest.pdb

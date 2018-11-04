@@ -1,0 +1,6 @@
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\bin\Debug\JointPrediction.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\bin\Debug\JointPrediction.pdb
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\obj\Debug\JointPrediction.csprojAssemblyReference.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\obj\Debug\JointPrediction.csproj.CoreCompileInputs.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\obj\Debug\JointPrediction.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\JointPrediction\obj\Debug\JointPrediction.pdb

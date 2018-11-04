@@ -1,0 +1,17 @@
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewerWithJointPrediction.csprojAssemblyReference.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\MainWindow.baml
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\MainWindow.g.cs
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\App.g.cs
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewer.g.resources
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewerWithJointPrediction.csproj.CoreCompileInputs.cache
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\SkeletalViewer.exe.config
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\SkeletalViewer.exe
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\SkeletalViewer.pdb
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\JointPrediction.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\Microsoft.Kinect.dll
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\JointPrediction.pdb
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\bin\Debug\Microsoft.Kinect.xml
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewerWithJointPrediction.csproj.CopyComplete
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewer.exe
+D:\ihave\Downloads\kinectprediction\sourceCode\kinectprediction\obj\x86\Debug\SkeletalViewer.pdb
